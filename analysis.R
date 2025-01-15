@@ -8,5 +8,3 @@ murders %>% mutate(abb = reorder(abb, rate)) %>%
   coord_flip()
 
 ggsave("figs/barplot.png")
-
-testing
