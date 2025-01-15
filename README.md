@@ -1,2 +1,2 @@
-# this is practice for EdX lecture
-# I am hungry
+This is practice for EdX lecture
+I am hungry
