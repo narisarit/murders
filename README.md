@@ -1,2 +1,4 @@
-This is practice for EdX lecture
-I am hungry
+This repo is practice repo for EdX lecture
+=================================
+
+
